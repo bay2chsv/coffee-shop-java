@@ -1,2 +1,2 @@
 # coffee-shop-java
-java spring boot
+Convert Nest js project to Java spring boot : coffee shop.
